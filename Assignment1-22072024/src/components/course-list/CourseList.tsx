@@ -53,8 +53,8 @@ const ProductList = () => {
         ]
     );
 
-    const dragProduct = useRef<any>(null);
-    const draggedOverProduct = useRef<any>(null);
+    const dragProduct = useRef(null);
+    const draggedOverProduct = useRef(null);
 
 
     const handleDrag = () => {

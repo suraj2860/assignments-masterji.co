@@ -10,7 +10,7 @@ const Layout = () => {
             <nav className='flex align-items bg-black text-white h-12 items-center'>
                 <div className='ml-12 mr-64 space-x-5 flex items-center'>Assignment1 - <i className='text-xs'>by Suraj</i>
                     <FontAwesomeIcon icon={faSquareXTwitter} size='2x' className='cursor-pointer' onClick={() => window.open('https://twitter.com/let_name_suraj', '_blank')}/>
-                    <FontAwesomeIcon icon={faGithub} size='2x' className='cursor-pointer' onClick={() => window.open('https://twitter.com/let_name_suraj', '_blank')}/>
+                    <FontAwesomeIcon icon={faGithub} size='2x' className='cursor-pointer' onClick={() => window.open('https://github.com/suraj2860/assignments-masterji.co/tree/master/Assignment1-22072024', '_blank')}/>
 
                 </div>
 
